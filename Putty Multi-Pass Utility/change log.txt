@@ -1,0 +1,10 @@
+Change-log for PuTTY-SSO
+
+v1.0 - Initial Release as PuMP-SSO
+
+v1.1 - Renamed PuTTY-SSO
+  Improved code comments to production level
+  cleaned up logic flow of login attempts
+
+v1.2 - Lockouts
+  Added re-try support for systems that initiate a lockout after x failed attempts

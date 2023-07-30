@@ -1,0 +1,25 @@
+#  Local directories
+**/Backups/*
+**/nmap/*
+**/PuTTY-SSO Demo/*
+**/lab apps/*
+**/Putty Multi-Pass Utility/PuTTY-SSO v1.2 Distributable/*
+*Distributable*
+*/old versions/*
+**/info/*
+
+# files by type
+*.log
+*.zip
+*.exe
+*.docx
+*.ini
+.DS_Store
+
+# specific files
+tn_lab_out.txt
+gnmp_logins_v1.0.rb
+getkey.rb
+telnet.rb
+test.rb
+tn_lab.rb

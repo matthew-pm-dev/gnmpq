@@ -1,0 +1,13 @@
+GNMPQ
+-----
+1.0 - Initial Release
+
+=============
+GNMP_LOGINS
+-----------
+1.0 - Initial Release
+
+1.1 - NMAP functionality
+  - Built in NMAP functionality to rapid scan large address ranges for available ports
+  - Now able to handle parsing /subnets of any size
+  
